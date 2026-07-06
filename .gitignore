@@ -10,3 +10,6 @@ __pycache__/
 
 # Configuración de VS Code
 .vscode/
+
+# Datos en bruto
+data/raw/*.csv
