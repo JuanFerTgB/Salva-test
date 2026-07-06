@@ -26,4 +26,4 @@ for i, blob_name in enumerate(signal_blobs):
     if (i + 1) % 50 == 0:
         print(f"  {i + 1}/{len(signal_blobs)} señales cargadas...")
 
-print(f"\n✅ Total de señales cargadas: {len(signals)}")
+print(f"\n Total de señales cargadas: {len(signals)}")
