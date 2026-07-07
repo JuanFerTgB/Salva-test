@@ -9,6 +9,7 @@ Pipeline de datos clínicos (variables + ECG) para clasificación binaria Normal
 - `data/features/` — dataset con features, listo para modelar
 - `scripts/` — scripts numerados por etapa del pipeline
 - `src/` — funciones reutilizables (conexión a Azure, etc.)
+- `reports/` - graficas
 
 ## Diccionario de variables (`pacientes.csv`)
 

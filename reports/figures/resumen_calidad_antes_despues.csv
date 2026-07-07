@@ -1,0 +1,8 @@
+,Antes (raw),Después (clean)
+filas_totales,515,500
+ids_unicos,500,500
+nulos_edad,4,0
+nulos_sexo,4,0
+nulos_peso,6,0
+nulos_altura,6,0
+edades_fuera_rango,6,0
